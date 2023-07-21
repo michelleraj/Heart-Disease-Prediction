@@ -7,13 +7,12 @@ Using a dataset of patient health records, a predictive model was developed usin
 <img width="622" alt="Screen Shot 2023-05-20 at 5 21 32 PM" src="https://github.com/michelleraj/Heart-Disease-Prediction-/assets/57809798/00ce54f6-b631-4f06-8a72-7d14bca35711">
 
 ## 2. Exploratory Data Analysis Heart Disease vs Gender
-Heart Disease most commonly found in Male relative to females
-The ratio of falsely detected  Heart Disease is in Females more than male
-
+Heart Disease is most commonly found in Males relative to females
+Females that have heart disease are less than the ones who don't have heart disease
 
 <img width="1306" alt="Screen Shot 2023-05-20 at 5 34 01 PM" src="https://github.com/michelleraj/Heart-Disease-Prediction-/assets/57809798/b77b82de-fe47-48ee-8014-3fe211d8e95f">
 
-## 3. Exploratory Data Analysis for different ECGs comparing to heart failure
+## 3. Exploratory Data Analysis for different ECGs compared to heart failure
 
 
 <img width="1292" alt="Screen Shot 2023-05-20 at 5 34 11 PM" src="https://github.com/michelleraj/Heart-Disease-Prediction-/assets/57809798/078f4341-e5b7-47a3-94ba-da64301813b3">
@@ -21,7 +20,7 @@ The ratio of falsely detected  Heart Disease is in Females more than male
 
 # BOX Plots
 
-Box plots visually show the distribution of numerical data and skewness through displaying the data quartiles (or percentiles) and averages
+Box plots visually show the distribution of numerical data and skewness by displaying the data quartiles (or percentiles) and averages
 
 box plot consists of a rectangular box that represents the interquartile range (IQR), spanning from the first quartile to the third quartile. Inside the box, a line marks the median, while extending from the box are "whiskers" that indicate the positions of the minimum and maximum values.
 
