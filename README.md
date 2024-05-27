@@ -1,5 +1,6 @@
 # Heart-Disease-Prediction
-## Introduction
+### [Code Link Here](Heart_Failure_Prediction.ipynb.ipynb.ipynb)
+## Introductiof
 
 This project aims to predict heart disease using patient health records from the Kaggle Heart Disease dataset. By applying various machine learning algorithms, we aim to identify key risk factors and develop an accurate predictive model to aid in early diagnosis and intervention.
 ## Data Processing
@@ -14,7 +15,7 @@ Several machine learning algorithms were tested, including Logistic Regression, 
 The best-performing model, Random Forest, achieved an accuracy of 82% in detecting heart disease. Confusion matrix and ROC curve analyses further validated the model's performance, confirming its suitability for predictive tasks in a clinical setting.
 
 ## Plots from Exploratory Data Analysis (EDA) 
-### For Detailed Analysis [Click Here](Heart_Failure_Prediction.ipynb.ipynb.ipynb)
+
 
 
 ## 1. Correlation Matrix - the relationship between variables in the data set
