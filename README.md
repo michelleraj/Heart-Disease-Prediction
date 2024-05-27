@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction
 ### [Code Link Here](Heart_Failure_Prediction.ipynb.ipynb.ipynb)
-## Introductiof
+## Introduction
 
 This project aims to predict heart disease using patient health records from the Kaggle Heart Disease dataset. By applying various machine learning algorithms, we aim to identify key risk factors and develop an accurate predictive model to aid in early diagnosis and intervention.
 ## Data Processing
