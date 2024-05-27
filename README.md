@@ -1,5 +1,20 @@
 # Heart-Disease-Prediction
-Using a dataset of patient health records, a predictive model was developed using pandas which accurately identified risk factors for heart disease and generated insights
+## Introduction
+
+This project aims to predict heart disease using patient health records from the Kaggle Heart Disease dataset. By applying various machine learning algorithms, we aim to identify key risk factors and develop an accurate predictive model to aid in early diagnosis and intervention.
+## Data Processing
+The dataset was first inspected for missing values, duplicates, and inconsistencies. Categorical variables were encoded using one-hot encoding, and numerical features were standardized to ensure uniformity. These steps helped prepare the data for effective modeling.
+## Prevalence Analysis
+Exploratory Data Analysis (EDA) revealed a heart disease prevalence of 25% in females and 65% in males. These insights guided the feature selection and model-tuning processes, highlighting the importance of gender-specific risk factors.
+## Feature Engineering
+Feature engineering included imputing missing values, encoding categorical variables, and normalizing numerical features. These steps enhanced the dataset's quality and the model's predictive accuracy, leading to an accuracy of 82%.
+## Model Training and Evaluation
+Several machine learning algorithms were tested, including Logistic Regression, Random Forest, and Support Vector Machine (SVM). Model performance was evaluated using accuracy, precision, recall, and F1-score, with the Random Forest model achieving the highest accuracy of 82%.
+## Results
+The best-performing model, Random Forest, achieved an accuracy of 82% in detecting heart disease. Confusion matrix and ROC curve analyses further validated the model's performance, confirming its suitability for predictive tasks in a clinical setting.
+
+## Plots from Exploratory Data Analysis (EDA) 
+### For Detailed Analysis [Click Here](Heart_Failure_Prediction.ipynb.ipynb.ipynb)
 
 
 ## 1. Correlation Matrix - the relationship between variables in the data set
